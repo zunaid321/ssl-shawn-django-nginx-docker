@@ -1,9 +1,0 @@
-SECRET_KEY=awesome_secret_key
-DEBUG=True
-ALLOWED_HOSTS=localhost,example.com,www.example.com
-POSTGRES_USER=username
-POSTGRES_PASSWORD=postgresql_password
-POSTGRES_DB=database_name
-POSTGRES_HOST=postgres
-POSTGRES_PORT=5432
-PGDATA=/var/lib/postgresql/data/pgdata

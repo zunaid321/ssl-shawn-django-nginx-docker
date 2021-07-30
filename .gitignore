@@ -1,0 +1,9 @@
+venv/
+.idea/
+project/logs
+project/static
+dockerfiles
+**/__pycache__
+**/.DS_Store
+.env
+data/certbot

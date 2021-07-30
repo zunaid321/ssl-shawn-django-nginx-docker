@@ -3,8 +3,8 @@
 
 # ------* Change your domain and email here *-------
 
-domains=(example.com www.example.com) # <--- Change your domain
-email="mail@mail.ru" # Adding a valid address is strongly recommended
+domains=(hdm.tnz.mybluehost.me www.hdm.tnz.mybluehost.me) # <--- Change your domain
+email="shawn.novel@gmail.com" # Adding a valid address is strongly recommended
 
 # --------------------------------------------------
 
